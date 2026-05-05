@@ -1,8 +1,6 @@
 Full Name: Deem
 Student ID: 4522591
 Section: 1898
-<<<<<<< HEAD:Untitled-1.txt
+
 Favorite Programming Language: Kotlinsg
-=======
-Favorite Programming Language: Kotlins
->>>>>>> 7c530de0470440d720c7fc88b67350eb24342090:info.txt
+
